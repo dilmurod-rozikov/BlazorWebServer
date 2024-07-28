@@ -1,2 +1,2 @@
 # BlazorWebServer
-for the sake of practicising Blazor Server
+for the sake of practicing Blazor Server
